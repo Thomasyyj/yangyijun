@@ -35,7 +35,7 @@ Selected Publications
 
 Acknowledgement
 ======
-From the start of my journey at the NLP, I'm really lucky to meet many enthusiastic and hardworking peers, where I truly learned a lot from: [Chenmien Tan](https://chenmientan.github.io/)@Alibaba, [Pinzhen Chen](https://pinzhenchen.github.io/)@Univeristy of Edinburgh, [Simon Yu](https://simonucl.github.io/)@Northeastern University, [Hanxu Hu](https://hanxuhu.github.io/)@University of Zurich, [Wenhao Zhu](https://owennju.github.io/)@Bytedance Seed and [Zeyu Huang](https://zeroyuhuang.github.io/)@University of Edinburgh
+From the start of my journey in NLP, I'm really lucky to meet many enthusiastic and hardworking peers, where I truly learned a lot from: [Chenmien Tan](https://chenmientan.github.io/)@Alibaba, [Pinzhen Chen](https://pinzhenchen.github.io/)@University of Edinburgh, [Simon Yu](https://simonucl.github.io/)@Northeastern University, [Hanxu Hu](https://hanxuhu.github.io/)@University of Zurich, [Wenhao Zhu](https://owennju.github.io/)@Bytedance Seed and [Zeyu Huang](https://zeroyuhuang.github.io/)@University of Edinburgh
 
 
 ---
