@@ -7,6 +7,10 @@ on:
       - '_talks/**'
       - 'talkmap.ipynb'
 
+# Add permissions for GitHub Actions to write to repository
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
