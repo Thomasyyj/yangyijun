@@ -35,7 +35,7 @@ Selected Publications
 
 Acknowledgement
 ======
-Since starting my NLP journey, I’ve been lucky to learn so much from those dedicated and inspiring peers: [Chenmien Tan](https://chenmientan.github.io/)@Alibaba, [Hanxu Hu](https://hanxuhu.github.io/)@University of Zurich, [Pinzhen Chen](https://pinzhenchen.github.io/)@University of Edinburgh, [Simon Yu](https://simonucl.github.io/)@Northeastern University, [Wenhao Zhu](https://owennju.github.io/)@Bytedance Seed, [Yifu Qiu](https://yfqiu.netlify.app/) and [Zeyu Huang](https://zeroyuhuang.github.io/)@University of Edinburgh. Most importantly, I thank [Yanran NI](https://www.linkedin.com/in/yanran-ni-a8255024b/) for her company and being my forever home.
+Since starting my NLP journey, I’ve been lucky to learn so much from those dedicated and inspiring peers: [Chenmien Tan](https://chenmientan.github.io/)@Alibaba, [Hanxu Hu](https://hanxuhu.github.io/)@University of Zurich, [Pinzhen Chen](https://pinzhenchen.github.io/)@University of Edinburgh, [Simon Yu](https://simonucl.github.io/)@Northeastern University, [Wenhao Zhu](https://owennju.github.io/)@Bytedance Seed, [Yifu Qiu](https://yfqiu.netlify.app/) and [Zeyu Huang](https://zeroyuhuang.github.io/)@University of Edinburgh. Most importantly, I thank [Yanran Ni](https://www.linkedin.com/in/yanran-ni-a8255024b/) for her company and being my forever home.
 
 ---
 Last Update (Sep 2025)
