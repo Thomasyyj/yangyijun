@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm an NLP Engineer at [Aveni](https://aveni.ai/). Prior to that, I worked at the [Shanghai AI Lab](https://www.shlab.org.cn/) and [Huawei Research Center](https://www.linkedin.com/company/huawei-technologies-research-development-uk-ltd/?originalSubdomain=uk). I obtained an MSc in Data Science at the University of Edinburgh supervised by [Jeff Z.Pan](https://knowledge-representation.org/j.z.pan/). 
+I'm an NLP Engineer at [Aveni](https://aveni.ai/). I previously worked at [Shanghai AI Lab](https://www.shlab.org.cn/) and [Huawei Research Center](https://www.linkedin.com/company/huawei-technologies-research-development-uk-ltd/?originalSubdomain=uk). I obtained an MSc in Data Science at the University of Edinburgh supervised by [Jeff Z.Pan](https://knowledge-representation.org/j.z.pan/). 
 
-I'm broadly interested in the applications of large language models (LLMs) and their foundation capabilities, especially the **agentic capabilities** and their ability to be **vertical domain learners**. 
+I'm broadly interested in the applications of large language models (LLMs) and their foundation capabilities, especially the **agentic capabilities** and their ability to be **vertical domain learners** (e.g financial domains, etc). 
 
-I currently develop/train agents for financial services and do research. I'm working to become a full-stack LLM Engineer experienced with ~~pretraining~~ (continual pretraining) -> post-training -> deployment.
+I currently develop/train agents for financial services and do research. I'm working to become a full-stack LLM Engineer experienced with (continual) pretraining -> post-training -> deployment.
 
 I have worked on the Factual Knowledge Extraction, LLM Swarm Agents and Long-Context Language Models. Feel free to reach out to me if you are interested in the same topic!
 
