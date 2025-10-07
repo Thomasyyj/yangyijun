@@ -17,11 +17,6 @@ I have worked on the Factual Knowledge Extraction, LLM Swarm Agents and Long-Con
 
 Selected Publications
 ======
-- [A Controllable Examination for Long-Context Language Models](https://arxiv.org/abs/2506.02921)
-  
-  **Yijun Yang**<sup>*</sup>, Zeyu Huang<sup>*</sup>, Wenhao Zhu, Zihan Qiu, Fei Yuan, Jeff Z. Pan, Ivan Titov.
-  
-  NeurIPS 2025 <span style="color: red;">Spotlight</span> \| [code](https://github.com/Thomasyyj/LongBio-Benchmark)
 
 - [UniArk: Improving Generalisation and Consistency for Factual Knowledge Extraction through Debiasing](https://arxiv.org/abs/2404.01253)
 
