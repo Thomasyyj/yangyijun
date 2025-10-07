@@ -22,11 +22,7 @@ Selected Publications
   **Yijun Yang**<sup>*</sup>, Zeyu Huang<sup>*</sup>, Wenhao Zhu, Zihan Qiu, Fei Yuan, Jeff Z. Pan, Ivan Titov.
   
   NeurIPS 2025 <span style="color: red;">Spotlight</span> \| [code](https://github.com/Thomasyyj/LongBio-Benchmark)
-- [From An LLM Swarm To A PDDL-Empowered HIVE: Planning Self-Executed Instructions In A Multi-Modal Jungle](https://arxiv.org/pdf/2412.12839)
 
-  Kaustubh Vyas, Damien Graux, **Yijun Yang**, Sébastien Montella, Chenxin Diao, Wendi Zhou, Pavlos Vougiouklis, Ruofei Lai, Yang Ren, Keshuang Li, Jeff Z. Pan
-
-  ICLR 2025 Poster
 - [UniArk: Improving Generalisation and Consistency for Factual Knowledge Extraction through Debiasing](https://arxiv.org/abs/2404.01253)
 
   **Yijun Yang**, Jie He, Pinzhen Chen, Víctor Gutiérrez-Basulto, Jeff Z. Pan
